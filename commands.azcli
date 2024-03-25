@@ -1,1 +1,6 @@
 
+dotnet new sln 
+dotnet new console -o linqTest
+
+dotnet sln add linqTest/linqTest.csproj
+

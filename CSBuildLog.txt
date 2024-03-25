@@ -1,0 +1,6 @@
+Start Log Codespace build linqTest
+Build Date.Time: 2024-03-25.20:11:43
+BEFORE CD
+BEFORE curl command
+BEFORE remove file
+End of Build Script File
